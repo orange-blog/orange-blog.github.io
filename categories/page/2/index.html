@@ -216,6 +216,29 @@
         
         <li class="menu-bottom-section">
             <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="https://orange-blog.github.io/" selected>中文</option>
+                                
+                                    <option value="https://orange-blog.github.io/en/" >English</option>
+                                
+                            </select>
+                        </li>
+                    
+                
 
                 
                     <li id="dark-mode-toggle">
@@ -359,6 +382,10 @@
                 Themes
             </a>
         
+            <a href="/categories/%E6%91%84%E5%BD%B1/" class="font_size_1">
+                摄影
+            </a>
+        
             <a href="/categories/%E6%B5%8B%E8%AF%95/" class="font_size_1">
                 测试
             </a>
@@ -441,7 +468,7 @@
 
         <div class="section-card">
             <div class="section-details">
-                <h3 class="section-count">6 个页面</h3>
+                <h3 class="section-count">7 个页面</h3>
                 <h1 class="section-term">Categories</h1>
                 
             </div>
@@ -449,6 +476,17 @@
     </header>
     
     <section class="article-list--compact">
+        
+            <article>
+    <a href="/categories/%E6%B5%8B%E8%AF%95/">
+        <div class="article-details">
+            <h2 class="article-title">测试</h2>
+            <footer class="article-time">
+                <time datetime='2020-09-09T00:00:00Z'>2020-09-09</time>
+            </footer>
+        </div>
+    </a>
+</article>
         
             <article>
     <a href="/categories/syntax/">
@@ -472,17 +510,6 @@
     </a>
 </article>
         
-            <article>
-    <a href="/categories/test-with-whitespaces/">
-        <div class="article-details">
-            <h2 class="article-title">Test With Whitespaces</h2>
-            <footer class="article-time">
-                <time datetime='2019-03-09T00:00:00Z'>2019-03-03</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
     </section>
     <nav class='pagination'>
         
@@ -495,6 +522,10 @@
             
             
                 <span class='page-link current'>2</span>
+                
+            
+            
+                    <a class='page-link' href='/categories/page/3/'>3</a>
                 
             
     </nav>
