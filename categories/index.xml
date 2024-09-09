@@ -6,7 +6,6 @@
         <description>Recent content in Categories on 波妞生活日记</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright>
         <lastBuildDate>Mon, 09 Sep 2024 00:47:21 +0800</lastBuildDate><atom:link href="https://orange-blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>分类</title>
         <link>https://orange-blog.github.io/categories/%E5%88%86%E7%B1%BB/</link>
@@ -24,43 +23,11 @@
         <description></description>
         </item>
         <item>
-        <title>Test</title>
-        <link>https://orange-blog.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <title>Example Category</title>
+        <link>https://orange-blog.github.io/categories/example-category/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://orange-blog.github.io/categories/test/</guid>
-        <description>&lt;img src="https://orange-blog.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>https://orange-blog.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://orange-blog.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Syntax</title>
-        <link>https://orange-blog.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://orange-blog.github.io/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://orange-blog.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://orange-blog.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://orange-blog.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://orange-blog.github.io/categories/test-with-whitespaces/</guid>
+        <guid>https://orange-blog.github.io/categories/example-category/</guid>
         <description></description>
         </item>
         
